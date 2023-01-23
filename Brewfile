@@ -13,6 +13,8 @@ brew "youtube-dl"
 brew "mas"
 brew "nmap"
 brew "docker-compose"
+brew "jq"
+brew "aria2"
 
 cask "airbuddy"
 cask "altserver"
