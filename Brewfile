@@ -1,8 +1,10 @@
 brew tap majd/repo
 brew tap homebrew/cask-fonts
 
+brew "docker-compose"
 brew "icarus-verilog"
 brew "neofetch"
+brew "odmpy"
 brew "openfpgaloader"
 brew "yt-dlp"
 brew "aria2"
@@ -13,6 +15,7 @@ cask "altserver"
 cask "arc"
 cask "balenaetcher"
 cask "bartender"
+cask "bbedit"
 cask "betterdisplay"
 cask "bunch"
 cask "docker"
@@ -37,6 +40,7 @@ cask "sf-symbols"
 cask "shottr"
 cask "sloth"
 cask "spotify"
+cask "tailscale"
 cask "utm"
 cask "visual-studio-code"
 cask "xcodes"
@@ -45,6 +49,7 @@ cask "zoom"
 mas "1Blocker", id: 1365531024
 mas "Baking Soda", id: 1601151613
 mas "Broadcasts", id: 1469995354
+mas "Craft: Write docs, AI editing", id: 1487937127
 mas "DevCleaner", id: 1388020431
 mas "GoodNotes", id: 1444383602
 mas "HextEdit", id: 1557247094
@@ -56,6 +61,7 @@ mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Pixelmator Pro", id: 1289583905
 mas "TestFlight", id: 899247664
+mas "The Unarchiver", id: 425424353
 mas "Things", id: 904280696
 mas "Velja", id: 1607635845
 mas "Vinegar", id: 1591303229
