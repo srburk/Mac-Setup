@@ -14,9 +14,7 @@ cask "airbuddy"
 cask "altserver"
 cask "arc"
 cask "balenaetcher"
-cask "bartender"
-cask "bbedit"
-cask "betterdisplay"
+cask "bartender"cask "betterdisplay"
 cask "bunch"
 cask "docker"
 cask "figma"
@@ -30,7 +28,6 @@ cask "iterm2"
 cask "latest"
 cask "launchcontrol"
 cask "mouse-fix"
-cask "netnewswire"
 cask "numi"
 cask "onyx"
 cask "parallels"
@@ -60,6 +57,7 @@ mas "Noir", id: 1592917505
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Pixelmator Pro", id: 1289583905
+mas "Reeder", id: 1529448980
 mas "TestFlight", id: 899247664
 mas "The Unarchiver", id: 425424353
 mas "Things", id: 904280696
