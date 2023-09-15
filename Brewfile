@@ -2,19 +2,21 @@ brew tap majd/repo
 brew tap homebrew/cask-fonts
 
 brew "docker-compose"
-brew "icarus-verilog"
-brew "neofetch"
-brew "odmpy"
-brew "openfpgaloader"
+brew "icarus-verilog" # verilog sim
+brew "neofetch" # pretty
+brew "odmpy" # Libby ftw
+brew "openfpgaloader" # flash FPGAs with bitsreams
 brew "yt-dlp"
 brew "aria2"
+brew "bottom" # super nice diagonstic panel
 
 cask "airbuddy"
 cask "altserver"
 cask "arc"
 cask "asset-catalog-tinkerer"
 cask "balenaetcher"
-cask "bartender"cask "betterdisplay"
+cask "bartender"
+cask "betterdisplay"
 cask "bunch"
 cask "docker"
 cask "figma"
