@@ -8,11 +8,11 @@ brew "odmpy"
 brew "openfpgaloader"
 brew "yt-dlp"
 brew "aria2"
-brew "ipatool"
 
 cask "airbuddy"
 cask "altserver"
 cask "arc"
+cask "asset-catalog-tinkerer"
 cask "balenaetcher"
 cask "bartender"cask "betterdisplay"
 cask "bunch"
@@ -41,6 +41,7 @@ cask "spotify"
 cask "tailscale"
 cask "utm"
 cask "visual-studio-code"
+cask "wiresharks"
 cask "xcodes"
 cask "zoom"
 
@@ -58,7 +59,7 @@ mas "Noir", id: 1592917505
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Pixelmator Pro", id: 1289583905
-mas "TestFlight", id: 899247664
+# mas "TestFlight", id: 899247664
 mas "The Unarchiver", id: 425424353
 mas "Things", id: 904280696
 mas "Velja", id: 1607635845
