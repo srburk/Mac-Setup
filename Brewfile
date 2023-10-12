@@ -8,6 +8,7 @@ brew "odmpy" # Libby ftw
 brew "openfpgaloader" # flash FPGAs with bitsreams
 brew "yt-dlp"
 brew "aria2"
+brew "shellcheck" # check bash scripts
 brew "bottom" # super nice diagonstic panel
 
 cask "airbuddy"
@@ -19,7 +20,6 @@ cask "bartender"
 cask "betterdisplay"
 cask "bunch"
 cask "db-browser-for-sqlite"
-cask "docker"
 cask "figma"
 cask "firefox"
 cask "font-fira-code"
@@ -31,9 +31,9 @@ cask "iterm2"
 cask "latest"
 cask "launchcontrol"
 cask "mouse-fix"
-cask "netnewswire"
 cask "numi"
 cask "onyx"
+cask "orbstack"
 cask "parallels"
 cask "playcover-community"
 cask "raycast"
@@ -62,6 +62,7 @@ mas "Noir", id: 1592917505
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Pixelmator Pro", id: 1289583905
+mas "Reeder 5.", id: 1529448980
 # mas "TestFlight", id: 899247664
 mas "The Unarchiver", id: 425424353
 mas "Things", id: 904280696
