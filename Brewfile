@@ -27,6 +27,7 @@ cask "forecast"
 cask "gtkwave"
 cask "grandperspective"
 cask "handbrake"
+cask "hex-fiend"
 cask "iterm2"
 cask "latest"
 cask "launchcontrol"
@@ -54,7 +55,7 @@ mas "Broadcasts", id: 1469995354
 mas "Craft: Write docs, AI editing", id: 1487937127
 mas "DevCleaner", id: 1388020431
 mas "GoodNotes", id: 1444383602
-mas "HextEdit", id: 1557247094
+# mas "HextEdit", id: 1557247094
 mas "iStat Menus", id: 1319778037
 mas "Keynote", id: 409183694
 mas "Magnet", id: 441258766
